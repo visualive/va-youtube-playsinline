@@ -11,11 +11,11 @@
         "phpmd/phpmd" : "*",
         "wp-coding-standards/wpcs": "dev-master"
     },
-    "license": "GPL-2.0+",
+    "license": "GPL-3.0+",
     "authors": [
         {
             "name": "KUCKLU",
-            "email": "kuck1u@visualive.jp"
+            "email": "oss@visualive.jp"
         }
     ]
 }
