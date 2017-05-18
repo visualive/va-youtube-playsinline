@@ -1,0 +1,21 @@
+{
+    "name": "visualive/va-mwwpform-send2chatwork",
+    "description": "Mail sent from \"MW WP Form\" will be forwarded to root of chatwork.",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=5.6"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.6",
+        "squizlabs/php_codesniffer": "2.*",
+        "phpmd/phpmd" : "*",
+        "wp-coding-standards/wpcs": "dev-master"
+    },
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "KUCKLU",
+            "email": "kuck1u@visualive.jp"
+        }
+    ]
+}
